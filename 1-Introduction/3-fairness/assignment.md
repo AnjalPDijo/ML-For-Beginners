@@ -9,4 +9,4 @@ In this lesson you learned about Fairlearn, an "open-source, community-driven pr
 | Criteria | Exemplary | Adequate | Needs Improvement |
 | -------- | --------- | -------- | ----------------- |
 |          |  A paper or powerpoint presentation is presented discussing Fairlearn's systems, the notebook that was run, and the conclusions drawn from running it        |   A paper is presented without conclusions       |  No paper is presented                 |
-https://drive.google.com/file/d/1kenLjgJh_f5EFVZr9YrKG1dCTI_1Iqrf/view?usp=drivesdk
+https://drive.google.com/file/d/1kcnYlxzt2e_weKU-jVJHNBYUO6anukTl/view?usp=drivesdk
